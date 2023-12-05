@@ -1,11 +1,11 @@
-# WP Glide.js Slides Shortcode
+# Glide.js Slides Shortcode
 
-**WP Glide.js Slides Shortcode** is a custom WordPress plugin that allows you to create sliders and carousels using the popular Glide.js library. It includes a customizable shortcode to easily add slides to your WordPress website.
+**Glide.js Slides Shortcode** is a custom WordPress plugin that allows you to create sliders and carousels using the popular Glide.js library. It includes a customizable shortcode to easily add slides to your WordPress website.
 
 ## Installation
 
 1. Download the plugin and extract the files.
-2. Upload the entire `wp-glidejs-slides` directory to your `/wp-content/plugins/` directory.
+2. Upload the entire `glidejs-slides` directory to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 ## Usage

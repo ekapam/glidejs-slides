@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WP Glide.js Slides Shortcode
- * Plugin URI: https://github.com/ekapam/wp-glidejs-slides
+ * Plugin Name: Glide.js Slides Shortcode
+ * Plugin URI: https://github.com/ekapam/glidejs-slides
  * Description: Create sliders and carousels with Glide.js using shortcodes
  * Version: 1.0
  * Author: Ricardo Ambriz
