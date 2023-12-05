@@ -4,6 +4,9 @@
  * Plugin URI: https://github.com/ekapam/glidejs-slides
  * Description: Create sliders and carousels with Glide.js using shortcodes
  * Version: 1.0
+ * Requires PHP: 7.0
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Author: Ricardo Ambriz
  * Author URI: https://ricardoambriz.com
  *
